@@ -1,6 +1,5 @@
 ## Hi there! 👋 I'm Angela Srbinovska
 
-##
 
 💻 **Computer Science Student | AI Enthusiast | Problem Solver**  
 
