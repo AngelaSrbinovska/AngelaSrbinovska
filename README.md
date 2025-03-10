@@ -4,7 +4,7 @@
 
 I'm passionate about leveraging *Machine Learning*, *Natural Language Processing*, and *Computer Vision* to solve real-world challenges. My journey has led me to explore fascinating projects like analyzing police body-worn camera (BWC) footage to improve law enforcement training and community safety.
 
-💡 Curious Mind | Collaborative Spirit
+💡 **Curious Mind** | **Collaborative Spirit**
 
 Beyond academics, I’m driven by curiosity and love working with others to solve real-world challenges. From coding projects to research initiatives, I'm always eager to explore new ideas and expand my knowledge. Let's connect and make things happen!
 
