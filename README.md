@@ -10,11 +10,6 @@ I'm passionate about leveraging **Machine Learning**, **Natural Language Process
 - 📊 Combining mathematics with ML for meaningful outcomes.
 - 🛠️ Building creative solutions through hands-on projects.
 
-### 🚀 Featured Projects
-- **Jott Interpreter** – A Java-based interpreter for the Jott programming language.
-- **Bookstore Database** – A comprehensive database application with user interaction tracking.
-- **AI/ML Platform** – An image-based model generation platform developed during my internship.
-  
 ##
 
 ### 🎯 Skills
