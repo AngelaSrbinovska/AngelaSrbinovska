@@ -8,6 +8,8 @@ I'm passionate about leveraging *Machine Learning*, *Natural Language Processing
 
 Beyond academics, I’m driven by curiosity and love working with others to solve real-world challenges. From coding projects to research initiatives, I'm always eager to explore new ideas and expand my knowledge. Let's connect and make things happen!
 
+##
+
 ### 🌟 What I'm Up To
 - 🛠️ Building creative solutions through hands-on projects.
 - 🧠 Developing AI models for behavioral analysis using multimodal data.
