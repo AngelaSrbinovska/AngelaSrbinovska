@@ -14,12 +14,16 @@ I'm passionate about leveraging **Machine Learning**, **Natural Language Process
 - **Jott Interpreter** – A Java-based interpreter for the Jott programming language.
 - **Bookstore Database** – A comprehensive database application with user interaction tracking.
 - **AI/ML Platform** – An image-based model generation platform developed during my internship.
+  
+##
 
 ### 🎯 Skills
-- **Programming Languages:** Python, Java, C, C++, C#, R, ARM Assembly
-- **AI/ML Tools:** TensorFlow, PyTorch, Keras, OpenCV
-- **Web Technologies:** Angular, Spring Boot, React.js
-- **Database Systems:** SQL, PostgreSQL, MongoDB
+- 🐍 **Python** | ☕ **Java** | ⚙️ **C/C++/C#** | 📊 **R** | 🖥️ **ARM Assembly**
+- 🤖 **TensorFlow** | 🔥 **PyTorch** | 🧠 **Keras** | 📸 **OpenCV**
+- 🌐 **Angular** | 🌿 **Spring Boot** | ⚛️ **React.js**
+- 🗄️ **SQL** | 🗃️ **MongoDB** | 🗂️ **PostgreSQL**
+
+##
 
 ### 📫 How to reach me
 💬 Always up for a good chat about AI, cool projects, or the latest mind-blowing sci-fi theories!
