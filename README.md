@@ -22,4 +22,5 @@ I'm passionate about leveraging **Machine Learning**, **Natural Language Process
 - **Database Systems:** SQL, PostgreSQL, MongoDB
 
 ### 📫 How to reach me
+💬 Always up for a good chat about AI, cool projects, or the latest mind-blowing sci-fi theories!
 - **LinkedIn:** [Angela Srbinovska](https://www.linkedin.com/in/angela-srbinovska-8a565b249/)
