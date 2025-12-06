@@ -20,10 +20,10 @@ Beyond academics, I’m driven by curiosity and love working with others to solv
 ##
 
 ### 🎯 Languages & Tools
-- 🐍 **Python** | ☕ **Java** | ⚙️ **C/C++/C#** | 📊 **R** | 🔬 **Embedded C** |🖥️ **ARM Assembly**
+- 🐍 **Python** | ☕ **Java** | ⚙️ **C/C++/C#** | 📊 **R** | 🖥️ **ARM Assembly**
 - 🤖 **TensorFlow** | 🔥 **PyTorch** | 🧠 **Keras** | 📸 **OpenCV**
 - 🌐 **HTML** | 🎨 **CSS** | 🟦 **JavaScript** | 🟧 **TypeScript** | 🖥️ **XML**
-- ⚛️ **React.js** | 🌐 **Angular** | 🌿 **Spring Boot** | 🐍 **Django** | 📦 **Bootstrap** | 🧩 Maven
+- ⚛️ **React.js** | 🌐 **Angular** | 🌿 **Spring Boot** | 🐍 **Django** | 📦 **Bootstrap**
 - 🗄️ **SQL** | 🗃️ **MongoDB** | 🗂️ **PostgreSQL**
 - 🪟 **Windows** | 🐧 **Linux**
 - 🤖 **Android Studio**
