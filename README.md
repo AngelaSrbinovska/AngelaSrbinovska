@@ -2,7 +2,7 @@
 
 💻 **Computer Science Student | AI Enthusiast | Problem Solver**  
 
-I'm passionate about leveraging *Machine Learning*, *Natural Language Processing*, and *Computer Vision* to solve real-world challenges. My journey has led me to explore fascinating projects like analyzing police body-worn camera (BWC) footage to improve law enforcement training and community safety.
+I'm passionate about leveraging *Machine Learning*, *Natural Language Processing*, and *Computer Vision* to solve real-world challenges. My journey has led me to explore fascinating projects, such as analyzing police body-worn camera footage to improve law enforcement training and community safety.
 
 💡 **Curious Mind** | **Collaborative Spirit**
 
