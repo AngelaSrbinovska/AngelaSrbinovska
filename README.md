@@ -21,7 +21,7 @@ Beyond academics, I’m driven by curiosity and love working with others to solv
 
 ### 🎯 Languages & Tools
 - 🐍 **Python** | ☕ **Java** | ⚙️ **C/C++/C#** | 📊 **R** | 🖥️ **ARM Assembly**
-- 🤖 **TensorFlow** | 🔥 **PyTorch** | 🧠 **Keras** | 📸 **OpenCV**
+- 🤖 **TensorFlow** | 🔥 **PyTorch** | 📸 **OpenCV**
 - 🌐 **HTML** | 🎨 **CSS** | 🟦 **JavaScript** | 🟧 **TypeScript** | 🖥️ **XML**
 - ⚛️ **React.js** | 🌐 **Angular** | 🌿 **Spring Boot** | 🐍 **Django** | 📦 **Bootstrap**
 - 🗄️ **SQL** | 🗃️ **MongoDB** | 🗂️ **PostgreSQL**
