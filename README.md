@@ -6,7 +6,7 @@ I'm passionate about leveraging *Machine Learning*, *Natural Language Processing
 
 💡 **Curious Mind** | **Collaborative Spirit**
 
-Beyond academics, I’m driven by curiosity and love working with others to solve real-world challenges. From coding projects to research initiatives, I'm always eager to explore new ideas and expand my knowledge. Let's connect and make things happen!
+Beyond academics, I’m driven by curiosity and love working with others to solve real-world challenges. From coding projects to research initiatives, I'm always eager to explore new ideas and expand my knowledge.
 
 ##
 
@@ -22,8 +22,8 @@ Beyond academics, I’m driven by curiosity and love working with others to solv
 ### 🎯 Languages & Tools
 - 🐍 **Python** | ☕ **Java** | ⚙️ **C/C++/C#** | 📊 **R** | 🖥️ **ARM Assembly**
 - 🤖 **TensorFlow** | 🔥 **PyTorch** | 📸 **OpenCV**
-- 🌐 **HTML** | 🎨 **CSS** | 🟦 **JavaScript** | 🟧 **TypeScript** | 🖥️ **XML**
-- ⚛️ **React.js** | 🌐 **Angular** | 🌿 **Spring Boot** | 🐍 **Django** | 📦 **Bootstrap**
+- 🌐 **HTML** | 🎨 **CSS** | 🟦 **JavaScript** | 🟧 **TypeScript**
+- ⚛️ **React.js** | 🌐 **Angular** | 🌿 **Spring Boot** | 📦 **Bootstrap**
 - 🗄️ **SQL** | 🗃️ **MongoDB** | 🗂️ **PostgreSQL**
 - 🪟 **Windows** | 🐧 **Linux**
 - 🤖 **Android Studio**
